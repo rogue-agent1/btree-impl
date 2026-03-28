@@ -1,7 +1,9 @@
 # btree-impl
-B-Tree implementation with insert, search, and in-order traversal. Zero dependencies.
+
+Zero-dependency Python implementation.
+
 ## Usage
+
 ```bash
-python3 btree_impl.py 3 --demo
-python3 btree_impl.py  # interactive
+python3 btree_impl.py
 ```
