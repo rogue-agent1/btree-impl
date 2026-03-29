@@ -1,11 +1,11 @@
 # btree-impl
 
-B-tree implementation.
+B-tree data structure for database indexing
 
-Zero dependencies. Python 3.8+.
+Zero-dependency, single-file Python 3.8+ CLI tool.
 
 ## Usage
 
 ```bash
-python3 btree_impl.py --help
+python btree_impl.py
 ```
